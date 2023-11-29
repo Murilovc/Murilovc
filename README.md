@@ -7,7 +7,7 @@
 - 📫 Como falar comigo? Email: mvc.dev7cf@gmail.com
 <div align="center">
   <a href="https://github.com/Murilovc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilovc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilovc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovc&layout=compact&langs_count=5&hide=less,css,scss&theme=tokyonight&exclude_repo=gerenciadorResumosPy"/>
 </div>
 
