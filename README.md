@@ -1,14 +1,17 @@
-### Olá 👋
+### Olá, sou Murilo Vieira 👋
 
+- 👀 Tenho interesse em Java, Spring e desenvolvimento desktop
 - 🔭 Estou trabalhando atualmente numa aplicação desktop de gestão de frente de caixa
-- 🌱 No momento, estudo a biblioteca Java de criação de jogos e gráficos multiplataforma LibGDX
+- 🌱 No momento, estudo a biblioteca de criação de jogos e gráficos multiplataforma LibGDX
 - 💬 Me pergunte sobre suas dúvidas na programação Java e mapeamento objeto relacional, ficarei feliz em tentar ajudar
 - 📫 Como falar comigo? Email: mvc.dev7cf@gmail.com
 <div align="center">
   <a href="https://github.com/Murilovc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilovc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovc&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilovc&layout=compact&langs_count=7&hide=javascript,css,scss,html&theme=tokyonight"/>
 </div>
+
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Murilo-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
